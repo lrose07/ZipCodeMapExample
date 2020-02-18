@@ -5,6 +5,13 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+
+/**
+ * In this file we need to do two things:
+ *  1) Add the zip codes to the map
+ *  2) Find the town when the zip code is entered
+ */
+
 class ZipCodeMapExample {
 
     private Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
@@ -26,7 +33,9 @@ class ZipCodeMapExample {
     }
 
     private String lookupTown() {
-        return townZipCodeMap.getOrDefault(zipCode, "Not found");
+        // Your code goes here
+
+        return "Not found";
     }
 
     private void loadMap() {
@@ -41,7 +50,8 @@ class ZipCodeMapExample {
                 String currentEntry = fileScan.nextLine();
                 currentCode = currentEntry.substring(0, 5);
                 currentTown = currentEntry.substring(7);
-                townZipCodeMap.put(currentCode, currentTown);
+                // what line goes here?
+
             }
         } catch (FileNotFoundException e) {
             logger.log(Level.INFO, "File not found");
