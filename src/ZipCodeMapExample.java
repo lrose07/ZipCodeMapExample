@@ -26,7 +26,10 @@ class ZipCodeMapExample {
     }
 
     private String lookupTown() {
-        return townZipCodeMap.getOrDefault(zipCode, "Not found");
+        if (townZipCodeMap.containsKey(zipCode)) {
+            return townZipCodeMap.get(zipCode);
+        }
+        return "Not found";
     }
 
     private void loadMap() {
@@ -41,7 +44,7 @@ class ZipCodeMapExample {
                 String currentEntry = fileScan.nextLine();
                 currentCode = currentEntry.substring(0, 5);
                 currentTown = currentEntry.substring(7);
-                townZipCodeMap.put(currentCode, currentTown);
+                // what line goes here?
             }
         } catch (FileNotFoundException e) {
             logger.log(Level.INFO, "File not found");
