@@ -1,0 +1,2099 @@
+20101  Dulles
+20102  Dulles
+20103  Dulles
+20104  Dulles
+20105  Aldie
+20106  Amissville
+20107  Arcola
+20108  Manassas
+20109  Manassas
+20110  Manassas
+20111  Manassas
+20112  Manassas
+20113  Manassas
+20115  Marshall
+20116  Marshall
+20117  Middleburg
+20118  Middleburg
+20119  Catlett
+20120  Centreville
+20121  Centreville
+20122  Centreville
+20124  Clifton
+20128  Orlean
+20129  Paeonian Springs
+20130  Paris
+20131  Philomont
+20132  Purcellville
+20134  Purcellville
+20135  Bluemont
+20136  Bristow
+20137  Broad Run
+20138  Calverton
+20139  Casanova
+20140  Rectortown
+20141  Round Hill
+20142  Round Hill
+20143  Catharpin
+20144  Delaplane
+20146  Ashburn
+20147  Ashburn
+20148  Ashburn
+20149  Ashburn
+20151  Chantilly
+20152  Chantilly
+20153  Chantilly
+20155  Gainesville
+20156  Gainesville
+20158  Hamilton
+20159  Hamilton
+20160  Lincoln
+20163  Sterling
+20164  Sterling
+20165  Sterling
+20166  Sterling
+20167  Sterling
+20168  Haymarket
+20169  Haymarket
+20170  Herndon
+20171  Herndon
+20172  Herndon
+20175  Leesburg
+20176  Leesburg
+20177  Leesburg
+20178  Leesburg
+20180  Lovettsville
+20181  Nokesville
+20182  Nokesville
+20184  Upperville
+20185  Upperville
+20186  Warrenton
+20187  Warrenton
+20188  Warrenton
+20189  Dulles
+20190  Reston
+20191  Reston
+20192  Herndon
+20193  Reston
+20194  Reston
+20195  Reston
+20196  Reston
+20197  Waterford
+20198  The Plains
+20199  Dulles
+22003  Annandale
+22009  Burke
+22015  Burke
+22025  Dumfries
+22026  Dumfries
+22027  Dunn Loring
+22030  Fairfax
+22031  Fairfax
+22032  Fairfax
+22033  Fairfax
+22034  Fairfax
+22035  Fairfax
+22036  Fairfax
+22037  Fairfax
+22038  Fairfax
+22039  Fairfax Station
+22040  Falls Church
+22041  Falls Church
+22042  Falls Church
+22043  Falls Church
+22044  Falls Church
+22046  Falls Church
+22047  Falls Church
+22060  Fort Belvoir
+22066  Great Falls
+22067  Greenway
+22079  Lorton
+22081  Merrifield
+22082  Merrifield
+22092  Herndon
+22093  Ashburn
+22095  Herndon
+22096  Reston
+22101  Mc Lean
+22102  Mc Lean
+22103  West Mclean
+22106  Mc Lean
+22107  Mc Lean
+22108  Mc Lean
+22109  Mc Lean
+22116  Merrifield
+22118  Merrifield
+22119  Merrifield
+22120  Merrifield
+22121  Mount Vernon
+22122  Newington
+22124  Oakton
+22125  Occoquan
+22134  Quantico
+22135  Quantico
+22150  Springfield
+22151  Springfield
+22152  Springfield
+22153  Springfield
+22156  Springfield
+22158  Springfield
+22159  Springfield
+22160  Springfield
+22161  Springfield
+22172  Triangle
+22180  Vienna
+22181  Vienna
+22182  Vienna
+22183  Vienna
+22184  Vienna
+22185  Vienna
+22191  Woodbridge
+22192  Woodbridge
+22193  Woodbridge
+22194  Woodbridge
+22195  Woodbridge
+22199  Lorton
+22201  Arlington
+22202  Arlington
+22203  Arlington
+22204  Arlington
+22205  Arlington
+22206  Arlington
+22207  Arlington
+22209  Arlington
+22210  Arlington
+22211  Ft Myer
+22212  Arlington
+22213  Arlington
+22214  Arlington
+22215  Arlington
+22216  Arlington
+22217  Arlington
+22218  Arlington
+22219  Arlington
+22222  Arlington
+22223  Arlington
+22225  Arlington
+22226  Arlington
+22227  Arlington
+22229  Arlington
+22230  Arlington
+22234  Arlington
+22240  Arlington
+22241  Arlington
+22242  Arlington
+22243  Arlington
+22244  Arlington
+22245  Arlington
+22246  Arlington
+22301  Alexandria
+22302  Alexandria
+22303  Alexandria
+22304  Alexandria
+22305  Alexandria
+22306  Alexandria
+22307  Alexandria
+22308  Alexandria
+22309  Alexandria
+22310  Alexandria
+22311  Alexandria
+22312  Alexandria
+22313  Alexandria
+22314  Alexandria
+22315  Alexandria
+22320  Alexandria
+22321  Alexandria
+22331  Alexandria
+22332  Alexandria
+22333  Alexandria
+22334  Alexandria
+22336  Alexandria
+22401  Fredericksburg
+22402  Fredericksburg
+22403  Fredericksburg
+22404  Fredericksburg
+22405  Fredericksburg
+22406  Fredericksburg
+22407  Fredericksburg
+22408  Fredericksburg
+22412  Fredericksburg
+22427  Bowling Green
+22428  Bowling Green
+22430  Brooke
+22432  Burgess
+22433  Burr Hill
+22435  Callao
+22436  Caret
+22437  Center Cross
+22438  Champlain
+22442  Coles Point
+22443  Colonial Beach
+22446  Corbin
+22448  Dahlgren
+22451  Dogue
+22454  Dunnsville
+22456  Edwardsville
+22460  Farnham
+22463  Garrisonville
+22469  Hague
+22471  Hartwood
+22472  Haynesville
+22473  Heathsville
+22476  Hustle
+22480  Irvington
+22481  Jersey
+22482  Kilmarnock
+22485  King George
+22488  Kinsale
+22501  Ladysmith
+22503  Lancaster
+22504  Laneview
+22507  Lively
+22508  Locust Grove
+22509  Loretto
+22511  Lottsburg
+22513  Merry Point
+22514  Milford
+22517  Mollusk
+22520  Montross
+22523  Morattico
+22524  Mount Holly
+22526  Ninde
+22528  Nuttsville
+22529  Oldhams
+22530  Ophelia
+22534  Partlow
+22535  Port Royal
+22538  Rappahannock Academy
+22539  Reedville
+22542  Rhoadesville
+22544  Rollins Fork
+22545  Ruby
+22546  Ruther Glen
+22547  Sealston
+22548  Sharps
+22552  Sparta
+22553  Spotsylvania
+22554  Stafford
+22555  Stafford
+22556  Stafford
+22558  Stratford
+22560  Tappahannock
+22565  Thornburg
+22567  Unionville
+22570  Village
+22572  Warsaw
+22576  Weems
+22577  Sandy Point
+22578  White Stone
+22579  Wicomico Church
+22580  Woodford
+22581  Zacata
+22601  Winchester
+22602  Winchester
+22603  Winchester
+22604  Winchester
+22610  Bentonville
+22611  Berryville
+22620  Boyce
+22622  Brucetown
+22623  Chester Gap
+22624  Clear Brook
+22625  Cross Junction
+22626  Fishers Hill
+22627  Flint Hill
+22630  Front Royal
+22637  Gore
+22638  Winchester
+22639  Hume
+22640  Huntly
+22641  Strasburg
+22642  Linden
+22643  Markham
+22644  Maurertown
+22645  Middletown
+22646  Millwood
+22649  Middletown
+22650  Rileyville
+22652  Fort Valley
+22654  Star Tannery
+22655  Stephens City
+22656  Stephenson
+22657  Strasburg
+22660  Toms Brook
+22663  White Post
+22664  Woodstock
+22701  Culpeper
+22709  Aroda
+22711  Banco
+22712  Bealeton
+22713  Boston
+22714  Brandy Station
+22715  Brightwood
+22716  Castleton
+22718  Elkwood
+22719  Etlan
+22720  Goldvein
+22721  Graves Mill
+22722  Haywood
+22723  Hood
+22724  Jeffersonton
+22725  Leon
+22726  Lignum
+22727  Madison
+22728  Midland
+22729  Mitchells
+22730  Oakpark
+22731  Pratts
+22732  Radiant
+22733  Rapidan
+22734  Remington
+22735  Reva
+22736  Richardsville
+22737  Rixeyville
+22738  Rochelle
+22739  Somerville
+22740  Sperryville
+22741  Stevensburg
+22742  Sumerduck
+22743  Syria
+22746  Viewtown
+22747  Washington
+22748  Wolftown
+22749  Woodville
+22801  Harrisonburg
+22802  Harrisonburg
+22803  Harrisonburg
+22807  Harrisonburg
+22810  Basye
+22811  Bergton
+22812  Bridgewater
+22815  Broadway
+22820  Criders
+22821  Dayton
+22824  Edinburg
+22827  Elkton
+22830  Fulks Run
+22831  Hinton
+22832  Keezletown
+22833  Lacey Spring
+22834  Linville
+22835  Luray
+22840  Mc Gaheysville
+22841  Mount Crawford
+22842  Mount Jackson
+22843  Mount Solon
+22844  New Market
+22845  Orkney Springs
+22846  Penn Laird
+22847  Quicksburg
+22848  Pleasant Valley
+22849  Shenandoah
+22850  Singers Glen
+22851  Stanley
+22853  Timberville
+22901  Charlottesville
+22902  Charlottesville
+22903  Charlottesville
+22904  Charlottesville
+22905  Charlottesville
+22906  Charlottesville
+22907  Charlottesville
+22908  Charlottesville
+22909  Charlottesville
+22910  Charlottesville
+22911  Charlottesville
+22920  Afton
+22922  Arrington
+22923  Barboursville
+22924  Batesville
+22931  Covesville
+22932  Crozet
+22935  Dyke
+22936  Earlysville
+22937  Esmont
+22938  Faber
+22939  Fishersville
+22940  Free Union
+22942  Gordonsville
+22943  Greenwood
+22945  Ivy
+22946  Keene
+22947  Keswick
+22948  Locust Dale
+22949  Lovingston
+22952  Lyndhurst
+22957  Montpelier Station
+22958  Nellysford
+22959  North Garden
+22960  Orange
+22963  Palmyra
+22964  Piney River
+22965  Quinque
+22967  Roseland
+22968  Ruckersville
+22969  Schuyler
+22971  Shipman
+22972  Somerset
+22973  Stanardsville
+22974  Troy
+22976  Tyro
+22980  Waynesboro
+22987  White Hall
+22989  Woodberry Forest
+23001  Achilles
+23002  Amelia Court House
+23003  Ark
+23004  Arvonia
+23005  Ashland
+23009  Aylett
+23011  Barhamsville
+23014  Beaumont
+23015  Beaverdam
+23018  Bena
+23021  Bohannon
+23022  Bremo Bluff
+23023  Bruington
+23024  Bumpass
+23025  Cardinal
+23027  Cartersville
+23030  Charles City
+23031  Christchurch
+23032  Church View
+23035  Cobbs Creek
+23038  Columbia
+23039  Crozier
+23040  Cumberland
+23043  Deltaville
+23045  Diggs
+23047  Doswell
+23050  Dutton
+23055  Fork Union
+23056  Foster
+23058  Glen Allen
+23059  Glen Allen
+23060  Glen Allen
+23061  Gloucester
+23062  Gloucester Point
+23063  Goochland
+23064  Grimstead
+23065  Gum Spring
+23066  Gwynn
+23067  Hadensville
+23068  Hallieford
+23069  Hanover
+23070  Hardyville
+23071  Hartfield
+23072  Hayes
+23075  Highland Springs
+23076  Hudgins
+23079  Jamaica
+23081  Jamestown
+23083  Jetersville
+23084  Kents Store
+23085  King And Queen Court House
+23086  King William
+23089  Lanexa
+23090  Lightfoot
+23091  Little Plymouth
+23092  Locust Hill
+23093  Louisa
+23101  Macon
+23102  Maidens
+23103  Manakin Sabot
+23105  Mannboro
+23106  Manquin
+23107  Maryus
+23108  Mascot
+23109  Mathews
+23110  Mattaponi
+23111  Mechanicsville
+23112  Midlothian
+23113  Midlothian
+23114  Midlothian
+23115  Millers Tavern
+23116  Mechanicsville
+23117  Mineral
+23119  Moon
+23120  Moseley
+23123  New Canton
+23124  New Kent
+23125  New Point
+23126  Newtown
+23127  Norge
+23128  North
+23129  Oilville
+23130  Onemo
+23131  Ordinary
+23138  Port Haywood
+23139  Powhatan
+23140  Providence Forge
+23141  Quinton
+23146  Rockville
+23147  Ruthville
+23148  Saint Stephens Church
+23149  Saluda
+23150  Sandston
+23153  Sandy Hook
+23154  Schley
+23155  Severn
+23156  Shacklefords
+23160  State Farm
+23161  Stevensville
+23162  Studley
+23163  Susan
+23168  Toano
+23169  Topping
+23170  Trevilians
+23173  University Of Richmond
+23175  Urbanna
+23176  Wake
+23177  Walkerton
+23178  Ware Neck
+23180  Water View
+23181  West Point
+23183  White Marsh
+23184  Wicomico
+23185  Williamsburg
+23186  Williamsburg
+23187  Williamsburg
+23188  Williamsburg
+23190  Woods Cross Roads
+23192  Montpelier
+23218  Richmond
+23219  Richmond
+23220  Richmond
+23221  Richmond
+23222  Richmond
+23223  Richmond
+23224  Richmond
+23225  Richmond
+23226  Richmond
+23227  Richmond
+23228  Richmond
+23229  Richmond
+23230  Richmond
+23231  Richmond
+23232  Richmond
+23233  Richmond
+23234  Richmond
+23235  Richmond
+23236  Richmond
+23237  Richmond
+23238  Richmond
+23240  Richmond
+23241  Richmond
+23242  Richmond
+23249  Richmond
+23250  Richmond
+23255  Richmond
+23260  Richmond
+23261  Richmond
+23269  Richmond
+23273  Richmond
+23274  Richmond
+23276  Richmond
+23278  Richmond
+23279  Richmond
+23282  Richmond
+23284  Richmond
+23285  Richmond
+23286  Richmond
+23288  Richmond
+23289  Richmond
+23290  Richmond
+23291  Richmond
+23292  Richmond
+23293  Richmond
+23294  Richmond
+23295  Richmond
+23297  Richmond
+23298  Richmond
+23301  Accomac
+23302  Assawoman
+23303  Atlantic
+23304  Battery Park
+23306  Belle Haven
+23307  Birdsnest
+23308  Bloxom
+23310  Cape Charles
+23313  Capeville
+23314  Carrollton
+23315  Carrsville
+23316  Cheriton
+23320  Chesapeake
+23321  Chesapeake
+23322  Chesapeake
+23323  Chesapeake
+23324  Chesapeake
+23325  Chesapeake
+23326  Chesapeake
+23327  Chesapeake
+23328  Chesapeake
+23336  Chincoteague Island
+23337  Wallops Island
+23341  Craddockville
+23345  Davis Wharf
+23347  Eastville
+23350  Exmore
+23354  Franktown
+23356  Greenbackville
+23357  Greenbush
+23358  Hacksneck
+23359  Hallwood
+23389  Harborton
+23395  Horntown
+23396  Oak Hall
+23397  Isle Of Wight
+23398  Jamesville
+23399  Jenkins Bridge
+23401  Keller
+23404  Locustville
+23405  Machipongo
+23407  Mappsville
+23408  Marionville
+23409  Mears
+23410  Melfa
+23412  Modest Town
+23413  Nassawadox
+23414  Nelsonia
+23415  New Church
+23416  Oak Hall
+23417  Onancock
+23418  Onley
+23419  Oyster
+23420  Painter
+23421  Parksley
+23422  Pungoteague
+23423  Quinby
+23424  Rescue
+23426  Sanford
+23427  Saxis
+23429  Seaview
+23430  Smithfield
+23431  Smithfield
+23432  Suffolk
+23433  Suffolk
+23434  Suffolk
+23435  Suffolk
+23436  Suffolk
+23437  Suffolk
+23438  Suffolk
+23439  Suffolk
+23440  Tangier
+23441  Tasley
+23442  Temperanceville
+23443  Townsend
+23450  Virginia Beach
+23451  Virginia Beach
+23452  Virginia Beach
+23453  Virginia Beach
+23454  Virginia Beach
+23455  Virginia Beach
+23456  Virginia Beach
+23457  Virginia Beach
+23458  Virginia Beach
+23459  Virginia Beach
+23460  Virginia Beach
+23461  Virginia Beach
+23462  Virginia Beach
+23463  Virginia Beach
+23464  Virginia Beach
+23465  Virginia Beach
+23466  Virginia Beach
+23467  Virginia Beach
+23471  Virginia Beach
+23479  Virginia Beach
+23480  Wachapreague
+23482  Wardtown
+23483  Wattsville
+23486  Willis Wharf
+23487  Windsor
+23488  Withams
+23501  Norfolk
+23502  Norfolk
+23503  Norfolk
+23504  Norfolk
+23505  Norfolk
+23506  Norfolk
+23507  Norfolk
+23508  Norfolk
+23509  Norfolk
+23510  Norfolk
+23511  Norfolk
+23512  Norfolk
+23513  Norfolk
+23514  Norfolk
+23515  Norfolk
+23517  Norfolk
+23518  Norfolk
+23519  Norfolk
+23520  Norfolk
+23521  Norfolk
+23523  Norfolk
+23529  Norfolk
+23541  Norfolk
+23551  Norfolk
+23601  Newport News
+23602  Newport News
+23603  Newport News
+23604  Fort Eustis
+23605  Newport News
+23606  Newport News
+23607  Newport News
+23608  Newport News
+23609  Newport News
+23612  Newport News
+23628  Newport News
+23630  Hampton
+23651  Fort Monroe
+23661  Hampton
+23662  Poquoson
+23663  Hampton
+23664  Hampton
+23665  Hampton
+23666  Hampton
+23667  Hampton
+23668  Hampton
+23669  Hampton
+23670  Hampton
+23681  Hampton
+23690  Yorktown
+23691  Yorktown
+23692  Yorktown
+23693  Yorktown
+23694  Lackey
+23696  Seaford
+23701  Portsmouth
+23702  Portsmouth
+23703  Portsmouth
+23704  Portsmouth
+23705  Portsmouth
+23707  Portsmouth
+23708  Portsmouth
+23709  Portsmouth
+23801  Fort Lee
+23803  Petersburg
+23804  Petersburg
+23805  Petersburg
+23806  Petersburg
+23821  Alberta
+23822  Ammon
+23824  Blackstone
+23825  Blackstone
+23827  Boykins
+23828  Branchville
+23829  Capron
+23830  Carson
+23831  Chester
+23832  Chesterfield
+23833  Church Road
+23834  Colonial Heights
+23836  Chester
+23837  Courtland
+23838  Chesterfield
+23839  Dendron
+23840  Dewitt
+23841  Dinwiddie
+23842  Disputanta
+23843  Dolphin
+23844  Drewryville
+23845  Ebony
+23846  Elberon
+23847  Emporia
+23850  Ford
+23851  Franklin
+23856  Freeman
+23857  Gasburg
+23860  Hopewell
+23866  Ivor
+23867  Jarratt
+23868  Lawrenceville
+23870  Jarratt
+23872  Mc Kenney
+23873  Meredithville
+23874  Newsoms
+23875  Prince George
+23876  Rawlings
+23878  Sedley
+23879  Skippers
+23881  Spring Grove
+23882  Stony Creek
+23883  Surry
+23884  Sussex
+23885  Sutherland
+23887  Valentines
+23888  Wakefield
+23889  Warfield
+23890  Waverly
+23891  Waverly
+23893  White Plains
+23894  Wilsons
+23897  Yale
+23898  Zuni
+23899  Claremont
+23901  Farmville
+23909  Farmville
+23915  Baskerville
+23917  Boydton
+23919  Bracey
+23920  Brodnax
+23921  Buckingham
+23922  Burkeville
+23923  Charlotte Court House
+23924  Chase City
+23927  Clarksville
+23930  Crewe
+23934  Cullen
+23936  Dillwyn
+23937  Drakes Branch
+23938  Dundas
+23939  Evergreen
+23941  Fort Mitchell
+23942  Green Bay
+23943  Hampden Sydney
+23944  Kenbridge
+23947  Keysville
+23950  La Crosse
+23952  Lunenburg
+23954  Meherrin
+23955  Nottoway
+23958  Pamplin
+23959  Phenix
+23960  Prospect
+23962  Randolph
+23963  Red House
+23964  Red Oak
+23966  Rice
+23967  Saxe
+23968  Skipwith
+23970  South Hill
+23974  Victoria
+23976  Wylliesburg
+24001  Roanoke
+24002  Roanoke
+24003  Roanoke
+24004  Roanoke
+24005  Roanoke
+24006  Roanoke
+24007  Roanoke
+24008  Roanoke
+24009  Roanoke
+24010  Roanoke
+24011  Roanoke
+24012  Roanoke
+24013  Roanoke
+24014  Roanoke
+24015  Roanoke
+24016  Roanoke
+24017  Roanoke
+24018  Roanoke
+24019  Roanoke
+24020  Roanoke
+24022  Roanoke
+24023  Roanoke
+24024  Roanoke
+24025  Roanoke
+24026  Roanoke
+24027  Roanoke
+24028  Roanoke
+24029  Roanoke
+24030  Roanoke
+24031  Roanoke
+24032  Roanoke
+24033  Roanoke
+24034  Roanoke
+24035  Roanoke
+24036  Roanoke
+24037  Roanoke
+24038  Roanoke
+24040  Roanoke
+24042  Roanoke
+24043  Roanoke
+24044  Roanoke
+24045  Roanoke
+24048  Roanoke
+24050  Roanoke
+24053  Ararat
+24054  Axton
+24055  Bassett
+24058  Belspring
+24059  Bent Mountain
+24060  Blacksburg
+24061  Blacksburg
+24062  Blacksburg
+24063  Blacksburg
+24064  Blue Ridge
+24065  Boones Mill
+24066  Buchanan
+24067  Callaway
+24068  Christiansburg
+24069  Cascade
+24070  Catawba
+24072  Check
+24073  Christiansburg
+24076  Claudville
+24077  Cloverdale
+24078  Collinsville
+24079  Copper Hill
+24082  Critz
+24083  Daleville
+24084  Dublin
+24085  Eagle Rock
+24086  Eggleston
+24087  Elliston
+24088  Ferrum
+24089  Fieldale
+24090  Fincastle
+24091  Floyd
+24092  Glade Hill
+24093  Glen Lyn
+24095  Goodview
+24101  Hardy
+24102  Henry
+24104  Huddleston
+24105  Indian Valley
+24111  Mc Coy
+24112  Martinsville
+24113  Martinsville
+24114  Martinsville
+24115  Martinsville
+24120  Meadows Of Dan
+24121  Moneta
+24122  Montvale
+24124  Narrows
+24126  Newbern
+24127  New Castle
+24128  Newport
+24129  New River
+24130  Oriskany
+24131  Paint Bank
+24132  Parrott
+24133  Patrick Springs
+24134  Pearisburg
+24136  Pembroke
+24137  Penhook
+24138  Pilot
+24139  Pittsville
+24141  Radford
+24142  Radford
+24143  Radford
+24146  Redwood
+24147  Rich Creek
+24148  Ridgeway
+24149  Riner
+24150  Ripplemead
+24151  Rocky Mount
+24153  Salem
+24155  Roanoke
+24157  Roanoke
+24161  Sandy Level
+24162  Shawsville
+24165  Spencer
+24167  Staffordsville
+24168  Stanleytown
+24171  Stuart
+24174  Thaxton
+24175  Troutville
+24176  Union Hall
+24177  Vesta
+24178  Villamont
+24179  Vinton
+24184  Wirtz
+24185  Woolwine
+24201  Bristol
+24202  Bristol
+24203  Bristol
+24209  Bristol
+24210  Abingdon
+24211  Abingdon
+24212  Abingdon
+24215  Andover
+24216  Appalachia
+24217  Bee
+24218  Ben Hur
+24219  Big Stone Gap
+24220  Birchleaf
+24221  Blackwater
+24224  Castlewood
+24225  Cleveland
+24226  Clinchco
+24228  Clintwood
+24230  Coeburn
+24236  Damascus
+24237  Dante
+24239  Davenport
+24243  Dryden
+24244  Duffield
+24245  Dungannon
+24246  East Stone Gap
+24248  Ewing
+24250  Fort Blackmore
+24251  Gate City
+24256  Haysi
+24258  Hiltons
+24260  Honaker
+24263  Jonesville
+24265  Keokee
+24266  Lebanon
+24269  Mc Clure
+24270  Mendota
+24271  Nickelsville
+24272  Nora
+24273  Norton
+24277  Pennington Gap
+24279  Pound
+24280  Rosedale
+24281  Rose Hill
+24282  Saint Charles
+24283  Saint Paul
+24290  Weber City
+24292  Whitetop
+24293  Wise
+24301  Pulaski
+24311  Atkins
+24312  Austinville
+24313  Barren Springs
+24314  Bastian
+24315  Bland
+24316  Broadford
+24317  Cana
+24318  Ceres
+24319  Chilhowie
+24322  Cripple Creek
+24323  Crockett
+24324  Draper
+24325  Dugspur
+24326  Elk Creek
+24327  Emory
+24328  Fancy Gap
+24330  Fries
+24333  Galax
+24340  Glade Spring
+24343  Hillsville
+24347  Hiwassee
+24348  Independence
+24350  Ivanhoe
+24351  Lambsburg
+24352  Laurel Fork
+24354  Marion
+24360  Max Meadows
+24361  Meadowview
+24363  Mouth Of Wilson
+24366  Rocky Gap
+24368  Rural Retreat
+24370  Saltville
+24374  Speedwell
+24375  Sugar Grove
+24377  Tannersville
+24378  Troutdale
+24380  Willis
+24381  Woodlawn
+24382  Wytheville
+24401  Staunton
+24402  Staunton
+24411  Augusta Springs
+24412  Bacova
+24413  Blue Grass
+24415  Brownsburg
+24416  Buena Vista
+24421  Churchville
+24422  Clifton Forge
+24426  Covington
+24430  Craigsville
+24431  Crimora
+24432  Deerfield
+24433  Doe Hill
+24435  Fairfield
+24437  Fort Defiance
+24438  Glen Wilton
+24439  Goshen
+24440  Greenville
+24441  Grottoes
+24442  Head Waters
+24445  Hot Springs
+24448  Iron Gate
+24450  Lexington
+24457  Low Moor
+24458  Mc Dowell
+24459  Middlebrook
+24460  Millboro
+24463  Mint Spring
+24464  Montebello
+24465  Monterey
+24467  Mount Sidney
+24468  Mustoe
+24469  New Hope
+24471  Port Republic
+24472  Raphine
+24473  Rockbridge Baths
+24474  Selma
+24476  Steeles Tavern
+24477  Stuarts Draft
+24479  Swoope
+24482  Verona
+24483  Vesuvius
+24484  Warm Springs
+24485  West Augusta
+24486  Weyers Cave
+24487  Williamsville
+24501  Lynchburg
+24502  Lynchburg
+24503  Lynchburg
+24504  Lynchburg
+24505  Lynchburg
+24506  Lynchburg
+24512  Lynchburg
+24513  Lynchburg
+24514  Lynchburg
+24515  Lynchburg
+24517  Altavista
+24520  Alton
+24521  Amherst
+24522  Appomattox
+24523  Bedford
+24526  Big Island
+24527  Blairs
+24528  Brookneal
+24529  Buffalo Junction
+24530  Callands
+24531  Chatham
+24533  Clifford
+24534  Clover
+24535  Cluster Springs
+24536  Coleman Falls
+24538  Concord
+24539  Crystal Hill
+24540  Danville
+24541  Danville
+24543  Danville
+24544  Danville
+24549  Dry Fork
+24550  Evington
+24551  Forest
+24553  Gladstone
+24554  Gladys
+24555  Glasgow
+24556  Goode
+24557  Gretna
+24558  Halifax
+24562  Howardsville
+24563  Hurt
+24565  Java
+24566  Keeling
+24569  Long Island
+24570  Lowry
+24571  Lynch Station
+24572  Madison Heights
+24574  Monroe
+24576  Naruna
+24577  Nathalie
+24578  Natural Bridge
+24579  Natural Bridge Station
+24580  Nelson
+24581  Norwood
+24586  Ringgold
+24588  Rustburg
+24589  Scottsburg
+24590  Scottsville
+24592  South Boston
+24593  Spout Spring
+24594  Sutherlin
+24595  Sweet Briar
+24597  Vernon Hill
+24598  Virgilina
+24599  Wingina
+24601  Amonate
+24602  Bandy
+24603  Big Rock
+24604  Bishop
+24605  Bluefield
+24606  Boissevain
+24607  Breaks
+24608  Burkes Garden
+24609  Cedar Bluff
+24612  Doran
+24613  Falls Mills
+24614  Grundy
+24619  Horsepen
+24620  Hurley
+24622  Jewell Ridge
+24624  Keen Mountain
+24627  Mavisdale
+24628  Maxie
+24630  North Tazewell
+24631  Oakwood
+24634  Pilgrims Knob
+24635  Pocahontas
+24637  Pounding Mill
+24639  Raven
+24640  Red Ash
+24641  Richlands
+24646  Rowe
+24647  Shortt Gap
+24649  Swords Creek
+24651  Tazewell
+24656  Vansant
+24657  Whitewood
+24658  Wolford
+24701  Bluefield
+24712  Athens
+24714  Beeson
+24715  Bramwell
+24716  Bud
+24719  Covel
+24724  Freeman
+24726  Herndon
+24729  Hiawatha
+24731  Kegley
+24732  Kellysville
+24733  Lashmeet
+24736  Matoaka
+24737  Montcalm
+24738  Nemours
+24739  Oakvale
+24740  Princeton
+24747  Rock
+24751  Wolfe
+24801  Welch
+24808  Anawalt
+24811  Avondale
+24813  Bartley
+24815  Berwind
+24816  Big Sandy
+24817  Bradshaw
+24818  Brenton
+24822  Clear Fork
+24823  Coal Mountain
+24824  Coalwood
+24826  Cucumber
+24827  Cyclone
+24828  Davy
+24829  Eckman
+24830  Elbert
+24831  Elkhorn
+24834  Fanrock
+24836  Gary
+24839  Hanover
+24842  Hemphill
+24843  Hensley
+24844  Iaeger
+24845  Ikes Fork
+24846  Isaban
+24847  Itmann
+24848  Jenkinjones
+24849  Jesse
+24850  Jolo
+24851  Justice
+24853  Kimball
+24854  Kopperston
+24855  Kyle
+24857  Lynco
+24859  Marianna
+24860  Matheny
+24861  Maybeury
+24862  Mohawk
+24866  Newhall
+24867  New Richmond
+24868  Northfork
+24869  North Spring
+24870  Oceana
+24871  Pageton
+24872  Panther
+24873  Paynesville
+24874  Pineville
+24878  Premier
+24879  Raysal
+24880  Rock View
+24881  Roderfield
+24882  Simon
+24884  Squire
+24887  Switchback
+24888  Thorpe
+24892  War
+24894  Warriormine
+24895  Wilcoe
+24898  Wyoming
+24901  Lewisburg
+24902  Fairlea
+24910  Alderson
+24915  Arbovale
+24916  Asbury
+24918  Ballard
+24920  Bartow
+24924  Buckeye
+24925  Caldwell
+24927  Cass
+24931  Crawley
+24934  Dunmore
+24935  Forest Hill
+24938  Frankford
+24941  Gap Mills
+24943  Grassy Meadows
+24944  Green Bank
+24945  Greenville
+24946  Hillsboro
+24951  Lindside
+24954  Marlinton
+24957  Maxwelton
+24961  Neola
+24962  Pence Springs
+24963  Peterstown
+24966  Renick
+24970  Ronceverte
+24974  Secondcreek
+24976  Sinks Grove
+24977  Smoot
+24981  Talcott
+24983  Union
+24984  Waiteville
+24985  Wayside
+24986  White Sulphur Springs
+24991  Williamsburg
+24993  Wolfcreek
+25002  Alloy
+25003  Alum Creek
+25005  Amma
+25007  Arnett
+25008  Artie
+25009  Ashford
+25011  Bancroft
+25015  Belle
+25019  Bickmore
+25021  Bim
+25022  Blair
+25024  Bloomingrose
+25025  Blount
+25026  Blue Creek
+25028  Bob White
+25030  Bomont
+25031  Boomer
+25033  Buffalo
+25035  Cabin Creek
+25036  Cannelton
+25039  Cedar Grove
+25040  Charlton Heights
+25043  Clay
+25044  Clear Creek
+25045  Clendenin
+25047  Clothier
+25048  Colcord
+25049  Comfort
+25051  Costa
+25053  Danville
+25054  Dawes
+25057  Deep Water
+25059  Dixie
+25060  Dorothy
+25061  Drybranch
+25062  Dry Creek
+25063  Duck
+25064  Dunbar
+25067  East Bank
+25070  Eleanor
+25071  Elkview
+25075  Eskdale
+25076  Ethel
+25079  Falling Rock
+25081  Foster
+25082  Fraziers Bottom
+25083  Gallagher
+25085  Gauley Bridge
+25086  Glasgow
+25088  Glen
+25090  Glen Ferris
+25093  Gordon
+25102  Handley
+25103  Hansford
+25106  Henderson
+25107  Hernshaw
+25108  Hewett
+25109  Hometown
+25110  Hugheston
+25111  Indore
+25112  Institute
+25113  Ivydale
+25114  Jeffrey
+25115  Kanawha Falls
+25118  Kimberly
+25119  Kincaid
+25121  Lake
+25123  Leon
+25124  Liberty
+25125  Lizemores
+25126  London
+25130  Madison
+25132  Mammoth
+25133  Maysel
+25134  Miami
+25136  Montgomery
+25139  Mount Carbon
+25140  Naoma
+25141  Nebo
+25142  Nellis
+25143  Nitro
+25148  Orgas
+25149  Ottawa
+25152  Page
+25154  Peytona
+25156  Pinch
+25159  Poca
+25160  Pond Gap
+25161  Powellton
+25162  Pratt
+25164  Procious
+25165  Racine
+25168  Red House
+25169  Ridgeview
+25173  Robson
+25174  Rock Creek
+25177  Saint Albans
+25180  Saxon
+25181  Seth
+25183  Sharples
+25185  Mount Olive
+25186  Smithers
+25187  Southside
+25193  Sylvester
+25201  Tad
+25202  Tornado
+25203  Turtle Creek
+25204  Twilight
+25205  Uneeda
+25206  Van
+25208  Wharton
+25209  Whitesville
+25211  Widen
+25213  Winfield
+25214  Winifrede
+25231  Advent
+25234  Arnoldsburg
+25235  Chloe
+25239  Cottageville
+25241  Evans
+25243  Gandeeville
+25244  Gay
+25245  Given
+25247  Hartford
+25248  Kenna
+25251  Left Hand
+25252  Le Roy
+25253  Letart
+25259  Looneyville
+25260  Mason
+25261  Millstone
+25262  Millwood
+25264  Mount Alto
+25265  New Haven
+25266  Newton
+25267  Normantown
+25268  Orma
+25270  Reedy
+25271  Ripley
+25275  Sandyville
+25276  Spencer
+25285  Wallback
+25286  Walton
+25287  West Columbia
+25301  Charleston
+25302  Charleston
+25303  Charleston
+25304  Charleston
+25305  Charleston
+25306  Charleston
+25309  Charleston
+25311  Charleston
+25312  Charleston
+25313  Charleston
+25314  Charleston
+25315  Charleston
+25317  Charleston
+25320  Charleston
+25321  Charleston
+25322  Charleston
+25323  Charleston
+25324  Charleston
+25325  Charleston
+25326  Charleston
+25327  Charleston
+25328  Charleston
+25329  Charleston
+25330  Charleston
+25331  Charleston
+25332  Charleston
+25333  Charleston
+25334  Charleston
+25335  Charleston
+25336  Charleston
+25337  Charleston
+25338  Charleston
+25339  Charleston
+25350  Charleston
+25356  Charleston
+25357  Charleston
+25358  Charleston
+25360  Charleston
+25361  Charleston
+25362  Charleston
+25364  Charleston
+25365  Charleston
+25375  Charleston
+25387  Charleston
+25389  Charleston
+25392  Charleston
+25396  Charleston
+25401  Martinsburg
+25402  Martinsburg
+25403  Martinsburg
+25404  Martinsburg
+25405  Martinsburg
+25410  Bakerton
+25411  Berkeley Springs
+25413  Bunker Hill
+25414  Charles Town
+25419  Falling Waters
+25420  Gerrardstown
+25421  Glengary
+25422  Great Cacapon
+25423  Halltown
+25425  Harpers Ferry
+25427  Hedgesville
+25428  Inwood
+25429  Martinsburg
+25430  Kearneysville
+25431  Levels
+25432  Millville
+25434  Paw Paw
+25437  Points
+25438  Ranson
+25440  Ridgeway
+25441  Rippon
+25442  Shenandoah Junction
+25443  Shepherdstown
+25444  Slanesville
+25446  Summit Point
+25501  Alkol
+25502  Apple Grove
+25503  Ashton
+25504  Barboursville
+25505  Big Creek
+25506  Branchland
+25507  Ceredo
+25508  Chapmanville
+25510  Culloden
+25511  Dunlow
+25512  East Lynn
+25514  Fort Gay
+25515  Gallipolis Ferry
+25517  Genoa
+25520  Glenwood
+25521  Griffithsville
+25523  Hamlin
+25524  Harts
+25526  Hurricane
+25529  Julian
+25530  Kenova
+25534  Kiahsville
+25535  Lavalette
+25537  Lesage
+25540  Midkiff
+25541  Milton
+25544  Myra
+25545  Ona
+25547  Pecks Mill
+25550  Point Pleasant
+25555  Prichard
+25557  Ranger
+25559  Salt Rock
+25560  Scott Depot
+25562  Shoals
+25564  Sod
+25565  Spurlockville
+25567  Sumerco
+25569  Teays
+25570  Wayne
+25571  West Hamlin
+25572  Woodville
+25573  Yawkey
+25601  Logan
+25606  Accoville
+25607  Amherstdale
+25608  Baisden
+25611  Bruno
+25612  Chauncey
+25614  Cora
+25617  Davin
+25621  Gilbert
+25624  Henlawson
+25625  Holden
+25628  Kistler
+25630  Lorado
+25632  Lyburn
+25634  Mallory
+25635  Man
+25637  Mount Gay
+25638  Omar
+25639  Peach Creek
+25644  Sarah Ann
+25646  Stollings
+25647  Switzer
+25649  Verdunville
+25650  Verner
+25651  Wharncliffe
+25652  Whitman
+25653  Wilkinson
+25654  Yolyn
+25661  Williamson
+25665  Borderland
+25666  Breeden
+25667  Chattaroy
+25669  Crum
+25670  Delbarton
+25671  Dingess
+25672  Edgarton
+25674  Kermit
+25676  Lenore
+25678  Matewan
+25685  Naugatuck
+25686  Newtown
+25688  North Matewan
+25690  Ragland
+25691  Rawl
+25692  Red Jacket
+25696  Varney
+25697  Vulcan
+25699  Wilsondale
+25701  Huntington
+25702  Huntington
+25703  Huntington
+25704  Huntington
+25705  Huntington
+25706  Huntington
+25707  Huntington
+25708  Huntington
+25709  Huntington
+25710  Huntington
+25711  Huntington
+25712  Huntington
+25713  Huntington
+25714  Huntington
+25715  Huntington
+25716  Huntington
+25717  Huntington
+25718  Huntington
+25719  Huntington
+25720  Huntington
+25721  Huntington
+25722  Huntington
+25723  Huntington
+25724  Huntington
+25725  Huntington
+25726  Huntington
+25727  Huntington
+25728  Huntington
+25729  Huntington
+25755  Huntington
+25770  Huntington
+25771  Huntington
+25772  Huntington
+25773  Huntington
+25774  Huntington
+25775  Huntington
+25776  Huntington
+25777  Huntington
+25778  Huntington
+25779  Huntington
+25801  Beckley
+25802  Beckley
+25810  Allen Junction
+25811  Amigo
+25812  Ansted
+25813  Beaver
+25816  Blue Jay
+25817  Bolt
+25818  Bradley
+25820  Camp Creek
+25823  Coal City
+25825  Cool Ridge
+25826  Corinne
+25827  Crab Orchard
+25831  Danese
+25832  Daniels
+25833  Dothan
+25836  Eccles
+25837  Edmond
+25839  Fairdale
+25840  Fayetteville
+25841  Flat Top
+25843  Ghent
+25844  Glen Daniel
+25845  Glen Fork
+25846  Glen Jean
+25848  Glen Rogers
+25849  Glen White
+25851  Harper
+25853  Helen
+25854  Hico
+25855  Hilltop
+25857  Josephine
+25860  Lanark
+25862  Lansing
+25864  Layland
+25865  Lester
+25866  Lochgelly
+25868  Lookout
+25870  Maben
+25871  Mabscott
+25873  Mac Arthur
+25875  Mc Graws
+25876  Saulsville
+25878  Midway
+25879  Minden
+25880  Mount Hope
+25882  Mullens
+25901  Oak Hill
+25902  Odd
+25904  Pax
+25906  Piney View
+25907  Prince
+25908  Princewick
+25909  Prosperity
+25911  Raleigh
+25913  Ravencliff
+25914  Redstar
+25915  Rhodell
+25916  Sabine
+25917  Scarbro
+25918  Shady Spring
+25919  Skelton
+25920  Slab Fork
+25921  Sophia
+25922  Spanishburg
+25926  Sprague
+25927  Stanaford
+25928  Stephenson
+25932  Surveyor
+25936  Thurmond
+25938  Victor
+25942  Winona
+25943  Wyco
+25951  Hinton
+25958  Charmco
+25962  Rainelle
+25965  Elton
+25966  Green Sulphur Springs
+25969  Jumping Branch
+25971  Lerona
+25972  Leslie
+25976  Meadow Bridge
+25977  Meadow Creek
+25978  Nimitz
+25979  Pipestem
+25981  Quinwood
+25984  Rupert
+25985  Sandstone
+25986  Spring Dale
+25989  White Oak
+26003  Wheeling
+26030  Beech Bottom
+26031  Benwood
+26032  Bethany
+26033  Cameron
+26034  Chester
+26035  Colliers
+26036  Dallas
+26037  Follansbee
+26038  Glen Dale
+26039  Glen Easton
+26040  Mcmechen
+26041  Moundsville
+26047  New Cumberland
+26050  Newell
+26055  Proctor
+26056  New Manchester
+26058  Short Creek
+26059  Triadelphia
+26060  Valley Grove
+26062  Weirton
+26070  Wellsburg
+26074  West Liberty
+26075  Windsor Heights
+26101  Parkersburg
+26102  Parkersburg
+26103  Parkersburg
+26104  Parkersburg
+26105  Vienna
+26106  Parkersburg
+26120  Mineral Wells
+26121  Mineral Wells
+26133  Belleville
+26134  Belmont
+26136  Big Bend
+26137  Big Springs
+26138  Brohard
+26141  Creston
+26142  Davisville
+26143  Elizabeth
+26146  Friendly
+26147  Grantsville
+26148  Macfarlan
+26149  Middlebourne
+26150  Mineral Wells
+26151  Mount Zion
+26152  Munday
+26155  New Martinsville
+26159  Paden City
+26160  Palestine
+26161  Petroleum
+26162  Porters Falls
+26164  Ravenswood
+26167  Reader
+26169  Rockport
+26170  Saint Marys
+26175  Sistersville
+26178  Smithville
+26180  Walker
+26181  Washington
+26184  Waverly
+26186  Wileyville
+26187  Williamstown
+26201  Buckhannon
+26202  Fenwick
+26203  Erbacon
+26205  Craigsville
+26206  Cowen
+26208  Camden On Gauley
+26209  Snowshoe
+26210  Adrian
+26215  Cleveland
+26217  Diana
+26218  French Creek
+26219  Frenchton
+26222  Hacker Valley
+26224  Helvetia
+26228  Kanawha Head
+26229  Lorentz
+26230  Pickens
+26234  Rock Cave
+26236  Selbyville
+26237  Tallmansville
+26238  Volga
+26241  Elkins
+26250  Belington
+26253  Beverly
+26254  Bowden
+26257  Coalton
+26259  Dailey
+26260  Davis
+26261  Richwood
+26263  Dryfork
+26264  Durbin
+26266  Upperglade
+26267  Ellamore
+26268  Glady
+26269  Hambleton
+26270  Harman
+26271  Hendricks
+26273  Huttonsville
+26275  Junior
+26276  Kerens
+26278  Mabie
+26280  Mill Creek
+26282  Monterville
+26283  Montrose
+26285  Norton
+26287  Parsons
+26288  Webster Springs
+26289  Red Creek
+26291  Slatyfork
+26292  Thomas
+26293  Valley Bend
+26294  Valley Head
+26296  Whitmer
+26298  Bergoo
+26301  Clarksburg
+26302  Clarksburg
+26306  Clarksburg
+26320  Alma
+26321  Alum Bridge
+26323  Anmoore
+26325  Auburn
+26327  Berea
+26330  Bridgeport
+26335  Burnsville
+26337  Cairo
+26338  Camden
+26339  Center Point
+26342  Coxs Mills
+26343  Crawford
+26346  Ellenboro
+26347  Flemington
+26348  Folsom
+26349  Galloway
+26351  Glenville
+26354  Grafton
+26361  Gypsy
+26362  Harrisville
+26366  Haywood
+26369  Hepzibah
+26372  Horner
+26374  Independence
+26376  Ireland
+26377  Jacksonburg
+26378  Jane Lew
+26384  Linn
+26385  Lost Creek
+26386  Lumberport
+26404  Meadowbrook
+26405  Moatsville
+26408  Mount Clare
+26410  Newburg
+26411  New Milton
+26412  Orlando
+26415  Pennsboro
+26416  Philippi
+26419  Pine Grove
+26421  Pullman
+26422  Reynoldsville
+26424  Rosemont
+26425  Rowlesburg
+26426  Salem
+26430  Sand Fork
+26431  Shinnston
+26434  Shirley
+26435  Simpson
+26436  Smithburg
+26437  Smithfield
+26438  Spelter
+26440  Thornton
+26443  Troy
+26444  Tunnelton
+26447  Walkersville
+26448  Wallace
+26451  West Milford
+26452  Weston
+26456  West Union
+26461  Wilsonburg
+26463  Wyatt
+26501  Morgantown
+26502  Morgantown
+26504  Morgantown
+26505  Morgantown
+26506  Morgantown
+26507  Morgantown
+26508  Morgantown
+26519  Albright
+26520  Arthurdale
+26521  Blacksville
+26524  Bretz
+26525  Bruceton Mills
+26527  Cassville
+26531  Dellslow
+26534  Granville
+26537  Kingwood
+26541  Maidsville
+26542  Masontown
+26543  Osage
+26544  Pentress
+26546  Pursglove
+26547  Reedsville
+26554  Fairmont
+26555  Fairmont
+26559  Barrackville
+26560  Baxter
+26561  Big Run
+26562  Burton
+26563  Carolina
+26566  Colfax
+26568  Enterprise
+26570  Fairview
+26571  Farmington
+26572  Four States
+26574  Grant Town
+26575  Hundred
+26576  Idamay
+26578  Kingmont
+26581  Littleton
+26582  Mannington
+26585  Metz
+26586  Montana Mines
+26587  Rachel
+26588  Rivesville
+26590  Wana
+26591  Worthington
+26601  Sutton
+26610  Birch River
+26611  Cedarville
+26615  Copen
+26617  Dille
+26619  Exchange
+26621  Flatwoods
+26623  Frametown
+26624  Gassaway
+26627  Heaters
+26629  Little Birch
+26631  Napier
+26636  Rosedale
+26638  Shock
+26651  Summersville
+26656  Belva
+26660  Calvin
+26662  Canvas
+26667  Drennen
+26671  Gilboa
+26675  Keslers Cross Lanes
+26676  Leivasy
+26678  Mount Lookout
+26679  Mount Nebo
+26680  Nallen
+26681  Nettie
+26684  Pool
+26690  Swiss
+26691  Tioga
+26704  Augusta
+26705  Aurora
+26707  Bayard
+26710  Burlington
+26711  Capon Bridge
+26714  Delray
+26716  Eglon
+26717  Elk Garden
+26719  Fort Ashby
+26720  Gormania
+26722  Green Spring
+26726  Keyser
+26731  Lahmansville
+26739  Mount Storm
+26743  New Creek
+26750  Piedmont
+26753  Ridgeley
+26755  Rio
+26757  Romney
+26761  Shanks
+26763  Springfield
+26764  Terra Alta
+26767  Wiley Ford
+26801  Baker
+26802  Brandywine
+26804  Circleville
+26807  Franklin
+26808  High View
+26810  Lost City
+26812  Mathias
+26814  Riverton
+26815  Sugar Grove
+26817  Bloomery
+26818  Fisher
+26823  Capon Springs
+26833  Maysville
+26836  Moorefield
+26838  Milam
+26845  Old Fields
+26847  Petersburg
+26851  Wardensville
+26852  Purgitsville
+26855  Cabins
+26865  Yellow Spring
+26866  Upper Tract
+26884  Seneca Rocks
+26886  Onego
