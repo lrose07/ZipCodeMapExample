@@ -24,8 +24,15 @@ class ZipCodeMapExample {
 
     ZipCodeMapExample() {
         loadMap();
+        run();
+    }
+
+    private void run() {
         getUserInput();
-        System.out.println(lookupTown());
+        while (runProgram) {
+            System.out.println(lookupTown());
+            getUserInput();
+        }
     }
 
     /**
@@ -35,7 +42,10 @@ class ZipCodeMapExample {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a zip code to lookup: ");
         zipCode = scan.nextLine();
-        scan.close();
+        if (zipCode.equalsIgnoreCase(quitCommand)) {
+            runProgram = false;
+            scan.close();
+        }
     }
 
     /**
@@ -74,4 +84,6 @@ class ZipCodeMapExample {
     private Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
     private String zipCode;
     private HashMap<String, String> townZipCodeMap;
+    private boolean runProgram = true;
+    private final String quitCommand = "quit";
 }
