@@ -1,4 +1,4 @@
-This code is for sue alongside the Map data structure workshop given at Radford University.
+This code is for use alongside the Map data structure workshop given at Radford University.
 
 Workshop:
 Wednsday 19 Feb 2020 @ 1pm, Davis 225
