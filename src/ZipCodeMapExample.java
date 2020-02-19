@@ -28,31 +28,35 @@ class ZipCodeMapExample {
     }
 
     private void run() {
-        getUserInput();
+        String codeEntered = getUserInput();
         while (runProgram) {
-            System.out.println(lookupTown());
-            getUserInput();
+            System.out.println(lookupTown(codeEntered));
+            codeEntered = getUserInput();
         }
     }
 
     /**
      * Gets the user input from the terminal
+     * @return user-entered zip code
      */
-    private void getUserInput() {
+    private String getUserInput() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a zip code to lookup: ");
-        zipCode = scan.nextLine();
-        if (zipCode.equalsIgnoreCase(quitCommand)) {
+        String code = scan.nextLine();
+        String quitCommand = "quit";
+        if (code.equalsIgnoreCase(quitCommand)) {
             runProgram = false;
             scan.close();
         }
+        return code;
     }
 
     /**
      * Looks up the given zip code to retrieve the matching town
+     * @param code zip code to lookup
      * @return matching town
      */
-    private String lookupTown() {
+    private String lookupTown(String code) {
         // TODO: Your code goes here
 
         return "Not found";
@@ -82,9 +86,7 @@ class ZipCodeMapExample {
     private HashMap<String, String> townZipCodeMap = new HashMap<>();
 
     private Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
-    private String zipCode;
     private boolean runProgram = true;
-    private final String quitCommand = "quit";
 }
 
 
