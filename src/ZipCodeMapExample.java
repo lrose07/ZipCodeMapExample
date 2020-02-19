@@ -62,8 +62,6 @@ class ZipCodeMapExample {
      * Inserts zip codes into Map structure
      */
     private void loadMap() {
-        townZipCodeMap = new HashMap<>();
-
         String currentTown;
         String currentCode;
 
@@ -81,9 +79,12 @@ class ZipCodeMapExample {
         }
     }
 
+    private HashMap<String, String> townZipCodeMap = new HashMap<>();
+
     private Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
     private String zipCode;
-    private HashMap<String, String> townZipCodeMap;
     private boolean runProgram = true;
     private final String quitCommand = "quit";
 }
+
+
