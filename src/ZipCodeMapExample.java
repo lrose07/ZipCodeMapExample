@@ -57,9 +57,7 @@ class ZipCodeMapExample {
      * @return matching town
      */
     private String lookupTown(String code) {
-        // TODO: Your code goes here
-
-        return "Not found";
+        return townZipCodeMap.getOrDefault(code, "Not found");
     }
 
     /**
